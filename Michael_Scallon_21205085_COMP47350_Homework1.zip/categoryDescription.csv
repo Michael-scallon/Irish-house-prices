@@ -1,0 +1,9 @@
+Feature,count,unique,top,freq,%missing,card
+Date of Sale (dd/mm/yyyy),10000,2752,22/12/2014,36,0.0,2752
+Address,10000,9980,"CASHLEEN, RENVYLE, GALWAY",2,0.0,9980
+Postal Code,1870,23,Dublin 15,266,81.3,23
+County,10000,26,Dublin,3230,0.0,26
+Not Full Market Price,10000,2,No,9527,0.0,2
+VAT Exclusive,10000,2,No,8331,0.0,2
+Description of Property,10000,2,Second-Hand Dwelling house /Apartment,8299,0.0,2
+Property Size Description,1074,3,greater than or equal to 38 sq metres and less than 125 sq metres,761,89.25999999999999,3
